@@ -1,0 +1,26 @@
+p {
+    text-align: center;
+}
+
+#img {
+    margin-top: 4%;
+}
+
+#bg-color {
+    background-color: #EEEEEE;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+#link {
+    font-size: 25px;
+}
+
+#link2 {
+    font-size: 15px;
+}
+
+#link3 {
+    font-size: 12px;
+}
