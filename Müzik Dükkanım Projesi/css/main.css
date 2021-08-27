@@ -1,0 +1,46 @@
+h1 {
+    color:brown;
+    text-align: center;
+}
+
+h2 {
+    color:rgb(165, 42, 138);
+    text-align: center; 
+}
+
+p {
+    text-align: center; 
+}
+
+.p1 {
+    color: chocolate;
+    text-align: center; 
+}
+
+.p2 {
+    color: chocolate;
+    text-align: left;
+}
+
+.p3 {
+    text-align: left;
+}
+
+.ul {
+    text-align: center; 
+    display: inline;
+}
+nav {
+    text-align: center;
+}
+
+.nav-a {
+    padding: 5px;
+}
+
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 250px;
+}
