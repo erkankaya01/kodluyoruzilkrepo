@@ -1,0 +1,92 @@
+body {
+  background: black;
+}
+
+.hacker {
+  background-image: url(../assets/hackturkey.gif);
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: 1920px 1070px;
+  background-attachment: fixed;
+}
+
+.clock {
+  position: relative;
+  text-align: center;
+  color: #e98208;
+  font-size: 60px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  letter-spacing: 7px;
+}
+
+.welc {
+  margin-bottom: 20px;
+  font-family: Cursive;
+  position: relative;
+  text-align: center;
+  color: #e98208;
+  font-size: 50px;
+  letter-spacing: 10px;
+}
+
+.hck{
+  margin-top: 100px;
+  margin-left: 43%;
+  font-family: Cursive;
+  position: relative;
+  text-align: center;
+  color: #000000;
+}
+
+.stylehck {
+  border: 0;
+  line-height: 2.5;
+  padding: 0 20px;
+  font-size: 1rem;
+  text-align: center;
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 10px;
+  background-color: rgb(5, 77, 45);
+  background-image: linear-gradient(to top left,
+                                    rgba(0, 0, 0, .2),
+                                    rgba(0, 0, 0, .2) 30%,
+                                    rgba(0, 0, 0, 0));
+  box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+              inset -2px -2px 3px rgba(0, 0, 0, .6);
+}
+.stylehck:hover {
+  background-color: rgba(255, 0, 0, 1);
+}
+
+.stylehck:active {
+  box-shadow: inset -2px -2px 3px rgba(255, 255, 255, 0.6),
+}
+
+.text1 {
+  position: relative;
+  text-align: center;
+  color: #e98208;
+  font-size: 50px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  letter-spacing: 7px;
+}
+
+.text2 {
+  position: relative;
+  text-align: center;
+  color: #e98208;
+  font-size: 40px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  letter-spacing: 7px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+ img {
+    margin-top: 65px;
+    width: 30%;
+     
+}
+
+
